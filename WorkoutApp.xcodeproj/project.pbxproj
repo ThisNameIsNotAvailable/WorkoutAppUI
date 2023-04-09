@@ -30,6 +30,20 @@
 		3A2F18F229DF04BC00EA3AD2 /* WeekDayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2F18F129DF04BC00EA3AD2 /* WeekDayView.swift */; };
 		3A2F18F429DF089100EA3AD2 /* Date+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2F18F329DF089100EA3AD2 /* Date+Extension.swift */; };
 		3A2F18F629DF0FFB00EA3AD2 /* BaseInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2F18F529DF0FFB00EA3AD2 /* BaseInfoView.swift */; };
+		3A61C6DA29E2179200491874 /* PercentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A61C6D929E2179200491874 /* PercentView.swift */; };
+		3A61C6DE29E2207D00491874 /* StatsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A61C6DD29E2207D00491874 /* StatsView.swift */; };
+		3A61C6E129E220C000491874 /* StatsCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A61C6E029E220C000491874 /* StatsCellView.swift */; };
+		3A61C6E329E22B0600491874 /* StepsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A61C6E229E22B0600491874 /* StepsView.swift */; };
+		3A61C6E529E22BE300491874 /* BarsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A61C6E429E22BE300491874 /* BarsView.swift */; };
+		3A61C6E729E22BF400491874 /* BarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A61C6E629E22BF400491874 /* BarView.swift */; };
+		3A61C6EA29E2DDD300491874 /* DailyPerformanceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A61C6E929E2DDD300491874 /* DailyPerformanceView.swift */; };
+		3A61C6EC29E2E78400491874 /* MonthlyPerformanceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A61C6EB29E2E78400491874 /* MonthlyPerformanceView.swift */; };
+		3A61C6EE29E2E90500491874 /* ChartsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A61C6ED29E2E90500491874 /* ChartsView.swift */; };
+		3A61C6F129E2EA8F00491874 /* ChartsYAxisView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A61C6F029E2EA8F00491874 /* ChartsYAxisView.swift */; };
+		3A61C6F329E2ED9500491874 /* ChartsXAxisView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A61C6F229E2ED9500491874 /* ChartsXAxisView.swift */; };
+		3A61C6F529E2F2B500491874 /* ChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A61C6F429E2F2B500491874 /* ChartView.swift */; };
+		3A61C6F729E301AF00491874 /* SectionHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A61C6F629E301AF00491874 /* SectionHeader.swift */; };
+		3A61C6F929E305ED00491874 /* TrainingCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A61C6F829E305ED00491874 /* TrainingCellView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +72,20 @@
 		3A2F18F129DF04BC00EA3AD2 /* WeekDayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeekDayView.swift; sourceTree = "<group>"; };
 		3A2F18F329DF089100EA3AD2 /* Date+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Extension.swift"; sourceTree = "<group>"; };
 		3A2F18F529DF0FFB00EA3AD2 /* BaseInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseInfoView.swift; sourceTree = "<group>"; };
+		3A61C6D929E2179200491874 /* PercentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PercentView.swift; sourceTree = "<group>"; };
+		3A61C6DD29E2207D00491874 /* StatsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsView.swift; sourceTree = "<group>"; };
+		3A61C6E029E220C000491874 /* StatsCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsCellView.swift; sourceTree = "<group>"; };
+		3A61C6E229E22B0600491874 /* StepsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepsView.swift; sourceTree = "<group>"; };
+		3A61C6E429E22BE300491874 /* BarsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarsView.swift; sourceTree = "<group>"; };
+		3A61C6E629E22BF400491874 /* BarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarView.swift; sourceTree = "<group>"; };
+		3A61C6E929E2DDD300491874 /* DailyPerformanceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyPerformanceView.swift; sourceTree = "<group>"; };
+		3A61C6EB29E2E78400491874 /* MonthlyPerformanceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonthlyPerformanceView.swift; sourceTree = "<group>"; };
+		3A61C6ED29E2E90500491874 /* ChartsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartsView.swift; sourceTree = "<group>"; };
+		3A61C6F029E2EA8F00491874 /* ChartsYAxisView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartsYAxisView.swift; sourceTree = "<group>"; };
+		3A61C6F229E2ED9500491874 /* ChartsXAxisView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartsXAxisView.swift; sourceTree = "<group>"; };
+		3A61C6F429E2F2B500491874 /* ChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartView.swift; sourceTree = "<group>"; };
+		3A61C6F629E301AF00491874 /* SectionHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionHeader.swift; sourceTree = "<group>"; };
+		3A61C6F829E305ED00491874 /* TrainingCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrainingCellView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +103,8 @@
 			isa = PBXGroup;
 			children = (
 				3A056DF329DF27A000545072 /* Timer */,
+				3A61C6DC29E21ED000491874 /* Steps */,
+				3A61C6DB29E21ECA00491874 /* Stats */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -84,6 +114,7 @@
 			children = (
 				3A056DEF29DF272500545072 /* TimerView.swift */,
 				3A056DF129DF279A00545072 /* ProgressView.swift */,
+				3A61C6D929E2179200491874 /* PercentView.swift */,
 			);
 			path = Timer;
 			sourceTree = "<group>";
@@ -174,6 +205,9 @@
 				3A2965C629DCBA4D00DCEDBF /* WAButton.swift */,
 				3A2F18EC29DEEE8900EA3AD2 /* BaseView.swift */,
 				3A2F18F529DF0FFB00EA3AD2 /* BaseInfoView.swift */,
+				3A61C6E429E22BE300491874 /* BarsView.swift */,
+				3A61C6E629E22BF400491874 /* BarView.swift */,
+				3A61C6EF29E2EA7E00491874 /* Charts */,
 			);
 			path = Base;
 			sourceTree = "<group>";
@@ -199,6 +233,7 @@
 		3A2965BD29DCB56B00DCEDBF /* Progress */ = {
 			isa = PBXGroup;
 			children = (
+				3A61C6E829E2DD9F00491874 /* Views */,
 				3A2965C129DCB58E00DCEDBF /* ProgressController.swift */,
 			);
 			path = Progress;
@@ -217,6 +252,8 @@
 			children = (
 				3A2F18EE29DF03C500EA3AD2 /* WeekView */,
 				3A2F18EA29DEEE5900EA3AD2 /* OverviewNavBar.swift */,
+				3A61C6F629E301AF00491874 /* SectionHeader.swift */,
+				3A61C6F829E305ED00491874 /* TrainingCellView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -228,6 +265,51 @@
 				3A2F18F129DF04BC00EA3AD2 /* WeekDayView.swift */,
 			);
 			path = WeekView;
+			sourceTree = "<group>";
+		};
+		3A61C6DB29E21ECA00491874 /* Stats */ = {
+			isa = PBXGroup;
+			children = (
+				3A61C6DF29E220A800491874 /* Views */,
+				3A61C6DD29E2207D00491874 /* StatsView.swift */,
+			);
+			path = Stats;
+			sourceTree = "<group>";
+		};
+		3A61C6DC29E21ED000491874 /* Steps */ = {
+			isa = PBXGroup;
+			children = (
+				3A61C6E229E22B0600491874 /* StepsView.swift */,
+			);
+			path = Steps;
+			sourceTree = "<group>";
+		};
+		3A61C6DF29E220A800491874 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				3A61C6E029E220C000491874 /* StatsCellView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		3A61C6E829E2DD9F00491874 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				3A61C6E929E2DDD300491874 /* DailyPerformanceView.swift */,
+				3A61C6EB29E2E78400491874 /* MonthlyPerformanceView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		3A61C6EF29E2EA7E00491874 /* Charts */ = {
+			isa = PBXGroup;
+			children = (
+				3A61C6ED29E2E90500491874 /* ChartsView.swift */,
+				3A61C6F029E2EA8F00491874 /* ChartsYAxisView.swift */,
+				3A61C6F229E2ED9500491874 /* ChartsXAxisView.swift */,
+				3A61C6F429E2F2B500491874 /* ChartView.swift */,
+			);
+			path = Charts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -305,20 +387,34 @@
 				3A29659929DC83D100DCEDBF /* OverviewController.swift in Sources */,
 				3A2F18EB29DEEE5900EA3AD2 /* OverviewNavBar.swift in Sources */,
 				3A2965AB29DC85D900DCEDBF /* TabBarController.swift in Sources */,
+				3A61C6EC29E2E78400491874 /* MonthlyPerformanceView.swift in Sources */,
+				3A61C6F929E305ED00491874 /* TrainingCellView.swift in Sources */,
 				3A29659529DC83D100DCEDBF /* AppDelegate.swift in Sources */,
 				3A2965B829DCB44800DCEDBF /* UIView+Extension.swift in Sources */,
 				3A2965C029DCB58000DCEDBF /* SessionController.swift in Sources */,
 				3A2965C729DCBA4D00DCEDBF /* WAButton.swift in Sources */,
+				3A61C6EA29E2DDD300491874 /* DailyPerformanceView.swift in Sources */,
 				3A2F18F629DF0FFB00EA3AD2 /* BaseInfoView.swift in Sources */,
+				3A61C6F729E301AF00491874 /* SectionHeader.swift in Sources */,
 				3A056DF029DF272500545072 /* TimerView.swift in Sources */,
 				3A056DF229DF279A00545072 /* ProgressView.swift in Sources */,
+				3A61C6E529E22BE300491874 /* BarsView.swift in Sources */,
 				3A2965C229DCB58E00DCEDBF /* ProgressController.swift in Sources */,
+				3A61C6E329E22B0600491874 /* StepsView.swift in Sources */,
+				3A61C6EE29E2E90500491874 /* ChartsView.swift in Sources */,
 				3A2965B229DCB10100DCEDBF /* NavBarController.swift in Sources */,
 				3A2965B029DC878600DCEDBF /* Resources.swift in Sources */,
 				3A29659729DC83D100DCEDBF /* SceneDelegate.swift in Sources */,
+				3A61C6F129E2EA8F00491874 /* ChartsYAxisView.swift in Sources */,
+				3A61C6E729E22BF400491874 /* BarView.swift in Sources */,
+				3A61C6E129E220C000491874 /* StatsCellView.swift in Sources */,
+				3A61C6DA29E2179200491874 /* PercentView.swift in Sources */,
 				3A2F18ED29DEEE8900EA3AD2 /* BaseView.swift in Sources */,
 				3A2F18F229DF04BC00EA3AD2 /* WeekDayView.swift in Sources */,
 				3A2965B629DCB27500DCEDBF /* BaseController.swift in Sources */,
+				3A61C6DE29E2207D00491874 /* StatsView.swift in Sources */,
+				3A61C6F529E2F2B500491874 /* ChartView.swift in Sources */,
+				3A61C6F329E2ED9500491874 /* ChartsXAxisView.swift in Sources */,
 				3A2965AE29DC866A00DCEDBF /* UIColor+Extension.swift in Sources */,
 				3A2F18F429DF089100EA3AD2 /* Date+Extension.swift in Sources */,
 			);

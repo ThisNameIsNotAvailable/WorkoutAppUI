@@ -15,7 +15,7 @@ class BaseInfoView: BaseView {
         return label
     }()
     
-    private let contentView: UIView = {
+    public let contentView: UIView = {
         let view = UIView()
         view.backgroundColor = .white
         view.layer.borderColor = Resources.Colors.separator.cgColor

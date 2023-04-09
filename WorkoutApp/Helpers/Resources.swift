@@ -15,6 +15,7 @@ enum Resources {
         static let darkGrey = UIColor(hexString: "#545C77")
         static let background = UIColor(hexString: "#F8F9F9")
         static let secondary = UIColor(hexString: "#F0F3FF")
+        static let subtitleGrey = UIColor(hexString: "#D8D8D8")
     }
     
     enum Strings {
@@ -41,6 +42,19 @@ enum Resources {
         enum Common {
             static let downArrow = UIImage(named: "downArrow")
             static let add = UIImage(named: "add")
+        }
+        
+        enum Session {
+            static let heartImage = UIImage(named: "heart")
+            static let stepsImage = UIImage(named: "steps")
+            static let mapsImage = UIImage(named: "maps")
+            static let speedImage = UIImage(named: "speed")
+        }
+        
+        enum Overview {
+            static let checkmarkDone = UIImage(named: "checkmarkDone")
+            static let checkmarkNotDone = UIImage(named: "checkmarkNotDone")
+            static let rightArrow = UIImage(named: "rightArrow")
         }
     }
     
